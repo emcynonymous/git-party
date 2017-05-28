@@ -1,1 +1,3 @@
 From Master Branch
+
+- Insert from branch2
