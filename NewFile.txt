@@ -1,3 +1,4 @@
 From Master Branch
 
 - Insert from Second Branch!
+- Insert from branch2
