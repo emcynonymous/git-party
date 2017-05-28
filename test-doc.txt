@@ -2,3 +2,6 @@ Hello World!
 
 - `This is a bullet`
 Amazeballs! Welcome to github
+
+- `Today is Sunday`
+Welcome to the Feast!
