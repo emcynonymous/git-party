@@ -5,3 +5,6 @@ Amazeballs! Welcome to github
 
 - `Today is Sunday`
 Welcome to the Feast!
+
+- `This is another bullet`
+New Line woah amazing
