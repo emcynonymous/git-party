@@ -2,3 +2,6 @@ Hello World!
 
 - `This is a bullet`
 Amazeballs! Welcome to github
+
+- `This is another bullet`
+New Line woah amazing
